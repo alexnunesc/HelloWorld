@@ -4,7 +4,9 @@
  Curso **Git&GitHub** *Curso em VIdeo*
 
 Usando o editor do site
+
 listas:
+
 lista numerada
 1. lista 01
 1. llista 02
